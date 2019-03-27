@@ -1,19 +1,19 @@
-git fetch fanboyalliance
-git fetch marlen99
-# git fetch ArtemVasilev
-# git fetch ravlasov
-git fetch danilzuev21
-# git fetch welarie
-git fetch Falvram
-git fetch FineGun
-git fetch laskovenko1
-git fetch DmLvkvch
-git fetch LosevMikhail
-# git fetch AngelinaMarkova99
-git fetch vanokako
-git fetch ProkopenkoNadezhda
-# git fetch Dyuha
-# git fetch Lucky324
-git fetch Katty57
-# git fetch yulyakhanovagit
-# git fetch Kairiss
+git fetch alexandrov
+git fetch bergaliev
+git fetch vasilev
+git fetch vlasov
+git fetch zuev
+git fetch iolshina
+git fetch kirsanov
+git fetch koryakin
+git fetch laskovenko
+git fetch levkovich
+git fetch losev
+git fetch markov
+git fetch medvedev
+git fetch prokopenko
+git fetch rudoman
+git fetch sichevsky
+git fetch tyan
+git fetch hanova
+git fetch chemova
