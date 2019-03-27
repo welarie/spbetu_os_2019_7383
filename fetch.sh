@@ -13,7 +13,7 @@ git fetch markov
 git fetch medvedev
 git fetch prokopenko
 #git fetch rudoman
-git fetch sichevsky
+#git fetch sichevsky
 git fetch tyan
 git fetch hanova
 git fetch chemova
