@@ -3,7 +3,7 @@ git fetch bergaliev
 git fetch vasilev
 git fetch vlasov
 git fetch zuev
-git fetch iolshina
+#git fetch iolshina
 git fetch kirsanov
 git fetch koryakin
 git fetch laskovenko
@@ -12,7 +12,7 @@ git fetch losev
 git fetch markov
 git fetch medvedev
 git fetch prokopenko
-git fetch rudoman
+#git fetch rudoman
 git fetch sichevsky
 git fetch tyan
 git fetch hanova
