@@ -1,14 +1,14 @@
-TESTPC SEGMENT
+  TESTPC SEGMENT
 	ASSUME CS:TESTPC, DS:TESTPC, ES:NOTHING, SS:NOTHING
 	ORG 100H
 START:
 	JMP BEGIN
 	UntouchMem 		DB 'Segment address of untouchable memory -     ',10,13,'$'
 	Envir 			DB 'Segment address of environment -     ',10,13,'$'
-	Tail 			DB 'Tail of command string - $'
-	EndStr 			DB " ",10,13,'$'
-	ContEnvAr 		DB 'Contents of the environment area - $'
-	WayMod 			DB 'Way of module - $'
+	Tail 			DB 'Tail of command string', '$'
+	EndStr 			DB ' ',10,13,'$'
+	ContEnvAr 		DB 'Contents of the environment area', '$'
+	WayMod 			DB 'Way of module', '$'
 
 TETR_TO_HEX PROC NEAR
 	and al,0fh
@@ -85,17 +85,22 @@ GET_ENV_ADR_SEG ENDP
 GET_TAIL PROC NEAR
 	mov dx,offset Tail
 	call PRINT_STR
-	mov cl,ds:[080h]
+	mov cx,0
+	mov cl,es:[80h]
+	cmp cl,0
+	je TAIL_END
+	mov dx,81h
+	mov bx,0
 	mov ah,02h
-
-
-	xor di,di
-newSymb:
-	mov dl,ds:[081h + di]
-	int 21h
-	inc di
-	loop newSymb
-
+	TAIL_loop:
+		mov dl,es:[bx+81h]
+		int 21h
+		inc	bx
+	loop TAIL_loop
+	mov dx,offset EndStr
+	call PRINT_str
+	TAIL_END:
+	ret
 GET_TAIL ENDP
 
 NEW_LINE		PROC	near
@@ -152,6 +157,10 @@ BEGIN:
 call GET_UNTOUCH_MEM
 call GET_ENV_ADR_SEG
 call GET_TAIL
+mov dx, offset Endstr
+call PRINT_STR
+mov dx, offset ContEnvAr
+call PRINT_STR
 call GET_ENVIRONMENT_DATA
 
 xor al, al
