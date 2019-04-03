@@ -13,7 +13,7 @@
 | Kirsanov           | Falvram            |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
 | Koryakin           | FineGun            |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
 | Laskovenko         | laskovenko1        |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
-| Levkovich          | DmLvkvch           |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
+| Levkovich          | DmLvkvch           | 03.04 |   -   |   -   |   -   |   -   |   -   |   -   |
 | Losev              | LosevMikhail       | 26.02 |   -   |   -   |   -   |   -   |   -   |   -   |
 | Markova            | AngelinaMarkova99  |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
 | Medvedev           | vanokako           |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
