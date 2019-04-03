@@ -20,7 +20,7 @@
 | Prokopenko         | ProkopenkoNadezhda | 27.02 |   -   |   -   |   -   |   -   |   -   |   -   |
 | Rudoman            | Dyuha              |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
 | Sichevsky          | Lucky324           |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
-| Tyan               | Katty57            |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
+| Tyan               | Katty57            | 03.04 |   -   |   -   |   -   |   -   |   -   |   -   |
 | Hanova             | yulyakhanovagit    |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
 | Chemova            | Kairiss            |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
 
