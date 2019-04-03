@@ -16,7 +16,7 @@
 | Levkovich          | DmLvkvch           | 03.04 |   -   |   -   |   -   |   -   |   -   |   -   |
 | Losev              | LosevMikhail       | 26.02 |   -   |   -   |   -   |   -   |   -   |   -   |
 | Markova            | AngelinaMarkova99  |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
-| Medvedev           | vanokako           |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
+| Medvedev           | vanokako           | 03.04 |   -   |   -   |   -   |   -   |   -   |   -   |
 | Prokopenko         | ProkopenkoNadezhda | 27.02 |   -   |   -   |   -   |   -   |   -   |   -   |
 | Rudoman            | Dyuha              |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
 | Sichevsky          | Lucky324           |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
