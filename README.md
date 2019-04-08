@@ -22,7 +22,7 @@
 | Sichevsky          | Lucky324           |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
 | Tyan               | Katty57            | 03.04 |   -   |   -   |   -   |   -   |   -   |   -   |
 | Khanova            | yulyakhanovagit    | 08.04 |   -   |   -   |   -   |   -   |   -   |   -   |
-| Chemova            | Kairiss            |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
+| Chemova            | Kairiss            | 08.04 |   -   |   -   |   -   |   -   |   -   |   -   |
 
 ### Легенда
 
