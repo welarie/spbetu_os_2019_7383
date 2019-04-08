@@ -9,11 +9,11 @@ git fetch koryakin
 git fetch laskovenko
 git fetch levkovich
 git fetch losev
-git fetch markov
+git fetch markova
 git fetch medvedev
 git fetch prokopenko
 #git fetch rudoman
 #git fetch sichevsky
 git fetch tyan
-git fetch hanova
+git fetch khanova
 git fetch chemova
