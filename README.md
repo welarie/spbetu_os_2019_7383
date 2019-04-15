@@ -21,7 +21,7 @@
 | Rudoman            | Dyuha              |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
 | Sichevsky          | Lucky324           |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
 | Tyan               | Katty57            | 03.04 |   -   |   -   |   -   |   -   |   -   |   -   |
-| Khanova            | yulyakhanovagit    | 08.04 |   -   |   -   |   -   |   -   |   -   |   -   |
+| Khanova            | yulyakhanovagit    | 08.04 | 15.04 |   -   |   -   |   -   |   -   |   -   |
 | Chemova            | Kairiss            | 08.04 |   -   |   -   |   -   |   -   |   -   |   -   |
 
 ### Легенда
