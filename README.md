@@ -17,7 +17,7 @@
 | Losev              | LosevMikhail       | 26.02 |   -   |   -   |   -   |   -   |   -   |   -   |
 | Markova            | AngelinaMarkova99  | 08.04 |   -   |   -   |   -   |   -   |   -   |   -   |
 | Medvedev           | vanokako           | 03.04 |   -   |   -   |   -   |   -   |   -   |   -   |
-| Prokopenko         | ProkopenkoNadezhda | 27.02 |   -   |   -   |   -   |   -   |   -   |   -   |
+| Prokopenko         | ProkopenkoNadezhda | 27.02 | 15.04 |   -   |   -   |   -   |   -   |   -   |
 | Rudoman            | Dyuha              |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
 | Sichevsky          | Lucky324           |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
 | Tyan               | Katty57            | 03.04 |   -   |   -   |   -   |   -   |   -   |   -   |
