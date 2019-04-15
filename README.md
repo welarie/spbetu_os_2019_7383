@@ -5,7 +5,7 @@
 | FirstName          | GitHub-аккаунт     | lab1  | lab2  | lab3  | lab4  | lab5  | lab6  | lab7  |
 | ------------------ | ------------------ | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | Alexandrov         | fanboyalliance     |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
-| Bergaliev          | marlen99           | 08.04  |   -   |   -   |   -   |   -   |   -   |   -   |
+| Bergaliev          | marlen99           | 08.04 | 15.04 |   -   |   -   |   -   |   -   |   -   |
 | Vasilev            | ArtemVasilev       |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
 | Vlasov             | ravlasov           |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
 | Zuev               | danilzuev21        |   -   | 15.04 |   -   |   -   |   -   |   -   |   -   |
