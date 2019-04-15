@@ -11,7 +11,7 @@
 | Zuev               | danilzuev21        |   -   | 15.04 |   -   |   -   |   -   |   -   |   -   |
 | Iolshina           | welarie            |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
 | Kirsanov           | Falvram            |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
-| Koryakin           | FineGun            | 08.04 |   -   |   -   |   -   |   -   |   -   |   -   |
+| Koryakin           | FineGun            | 08.04 | 15.04 |   -   |   -   |   -   |   -   |   -   |
 | Laskovenko         | laskovenko1        | 15.04 | 15.04 |   -   |   -   |   -   |   -   |   -   |
 | Levkovich          | DmLvkvch           | 03.04 | 15.04 |   -   |   -   |   -   |   -   |   -   |
 | Losev              | LosevMikhail       | 26.02 |   -   |   -   |   -   |   -   |   -   |   -   |
