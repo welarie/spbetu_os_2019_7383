@@ -110,7 +110,7 @@ BYTE_TO_HEX PROC near
 	pop CX
 	ret
 BYTE_TO_HEX ENDP
- 
+
 WRD_TO_HEX PROC near
 	push BX
 	mov BH,AH
