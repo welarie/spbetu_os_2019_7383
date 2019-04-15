@@ -8,7 +8,7 @@
 | Bergaliev          | marlen99           | 08.04  |   -   |   -   |   -   |   -   |   -   |   -   |
 | Vasilev            | ArtemVasilev       |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
 | Vlasov             | ravlasov           |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
-| Zuev               | danilzuev21        |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
+| Zuev               | danilzuev21        |   -   | 15.04 |   -   |   -   |   -   |   -   |   -   |
 | Iolshina           | welarie            |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
 | Kirsanov           | Falvram            |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
 | Koryakin           | FineGun            | 08.04 |   -   |   -   |   -   |   -   |   -   |   -   |
