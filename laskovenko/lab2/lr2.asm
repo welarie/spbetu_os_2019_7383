@@ -33,7 +33,7 @@ BYTE_TO_HEX PROC near
 	ret
 BYTE_TO_HEX ENDP
 
- 
+
 WRD_TO_HEX PROC near
 	push BX
 	mov BH,AH
